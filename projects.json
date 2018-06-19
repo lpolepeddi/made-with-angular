@@ -14816,7 +14816,8 @@
   {
     "name": "Cloud-Player",
     "tags": [
-      "community"
+      "travel-local",
+      "transportation"
     ],
     "url": "https://cloud-player.io",
     "thumb": "/projects/cloud-player/thumb",
